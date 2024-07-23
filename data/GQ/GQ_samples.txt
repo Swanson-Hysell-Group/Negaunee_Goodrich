@@ -1,0 +1,31 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+GQ.1a	GQ	0					  158.8	    0.0	   24.0	  438.2	  -15.0	This study	SO-CMD-NORTH
+GQ.2a	GQ	0					  -60.9	    0.0	   24.0	  438.2	  -75.0	This study	SO-CMD-NORTH
+GQ.3a	GQ	0					  262.4	    0.0	   24.0	  438.2	  -18.0	This study	SO-CMD-NORTH
+GQ.4a	GQ	0					  268.7	    0.0	   24.0	  438.2	  -97.0	This study	SO-CMD-NORTH
+GQ.5a	GQ	0					  -71.7	    0.0	   24.0	  438.2	  -76.0	This study	SO-CMD-NORTH
+GQ.6a	GQ	0					  -79.0	    0.0	   24.0	  438.2	  -94.0	This study	SO-CMD-NORTH
+GQ.7a	GQ	0					  -33.0	    0.0	   24.0	  438.2	  -84.0	This study	SO-CMD-NORTH
+GQ.8a	GQ	0					  -34.6	    0.0	   24.0	  438.2	  -83.0	This study	SO-CMD-NORTH
+GQ.9a	GQ	0					    4.4	    0.0	   24.0	  438.2	  -82.0	This study	SO-CMD-NORTH
+GQ.10a	GQ	0					  176.2	    0.0	   24.0	  438.2	   -5.0	This study	SO-CMD-NORTH
+GQ.11a	GQ	0					   -4.2	    0.0	   24.0	  438.2	 -103.0	This study	SO-CMD-NORTH
+GQ.12a	GQ	0					  -36.0	    0.0	   24.0	  438.2	  -67.0	This study	SO-CMD-NORTH
+GQ.14a	GQ	0					  -11.8	    0.0	   24.0	  438.2	  -76.0	This study	SO-CMD-NORTH
+GQ.15a	GQ	0					  -70.8	    0.0	   24.0	  438.2	  -69.0	This study	SO-CMD-NORTH
+GQ.16a	GQ	0					    9.2	    0.0	   24.0	  438.2	  -74.0	This study	SO-CMD-NORTH
+GQ.17a	GQ	0					  -15.8	    0.0	   24.0	  438.2	  -56.0	This study	SO-CMD-NORTH
+GQ.18a	GQ	0					   -7.8	    0.0	   24.0	  438.2	  -68.0	This study	SO-CMD-NORTH
+GQ.19a	GQ	0					  159.7	    0.0	   24.0	  438.2	  -10.0	This study	SO-CMD-NORTH
+GQ.20a	GQ	0					    3.2	    0.0	   24.0	  438.2	  -81.0	This study	SO-CMD-NORTH
+GQ.21a	GQ	0					   30.2	    0.0	   24.0	  438.2	  -54.0	This study	SO-CMD-NORTH
+GQ.23a	GQ	0					  -12.2	    0.0	   24.0	  438.2	  -73.0	This study	SO-CMD-NORTH
+GQ.24a	GQ	0					  -38.6	    0.0	   24.0	  438.2	   -4.0	This study	SO-CMD-NORTH
+GQ.25a	GQ	0					  155.0	    0.0	   24.0	  438.2	  -18.0	This study	SO-CMD-NORTH
+GQ.26a	GQ	0					  -76.8	    0.0	   24.0	  438.2	  -61.0	This study	SO-CMD-NORTH
+GQ.27a	GQ	0					  -22.8	    0.0	   24.0	  438.2	  -79.0	This study	SO-CMD-NORTH
+GQ.28a	GQ	0					   79.2	    0.0	   24.0	  438.2	  -33.0	This study	SO-CMD-NORTH
+GQ.29a	GQ	0					  124.2	    0.0	   24.0	  438.2	  -67.0	This study	SO-CMD-NORTH
+GQ.30a	GQ	0					  -27.6	    0.0	   24.0	  438.2	  -69.0	This study	SO-CMD-NORTH
+GQ.31a	GQ	0					  -18.1	    0.0	   24.0	  438.2	  -52.0	This study	SO-CMD-NORTH

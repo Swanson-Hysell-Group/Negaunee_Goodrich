@@ -1,0 +1,28 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+NF.2-1	NF.2-1		This study	LP-NOMAG		
+NF.2-2	NF.2-2		This study	LP-NOMAG		
+NF.2-3	NF.2-3		This study	LP-NOMAG		
+NF.2-4	NF.2-4		This study	LP-NOMAG		
+NF.6-1	NF.6-1		This study	LP-NOMAG		
+NF.6-2	NF.6-2		This study	LP-NOMAG		
+NF.6-3	NF.6-3		This study	LP-NOMAG		
+NF.6-4	NF.6-4		This study	LP-NOMAG		
+NF.6-5	NF.6-5		This study	LP-NOMAG		
+NF.7-1	NF.7-1		This study	LP-NOMAG		
+NF.7-2	NF.7-2		This study	LP-NOMAG		
+NF.8-1	NF.8-1		This study	LP-NOMAG		
+NF.8-2	NF.8-2		This study	LP-NOMAG		
+NF.9-1	NF.9-1		This study	LP-NOMAG		
+NF.9-2	NF.9-2		This study	LP-NOMAG		
+NF.9-3	NF.9-3		This study	LP-NOMAG		
+NF.9-4	NF.9-4		This study	LP-NOMAG		
+NF.9-5	NF.9-5		This study	LP-NOMAG		
+NF.9-6	NF.9-6		This study	LP-NOMAG		
+NF.9-7	NF.9-7		This study	LP-NOMAG		
+NF.9-8	NF.9-8		This study	LP-NOMAG		
+NF.10-1	NF.10-1		This study	LP-NOMAG		
+NF.10-2	NF.10-2		This study	LP-NOMAG		
+NF.10-3	NF.10-3		This study	LP-NOMAG		
+NF.10-4	NF.10-4		This study	LP-NOMAG		
+NF.11-1	NF.11-1		This study	LP-NOMAG		

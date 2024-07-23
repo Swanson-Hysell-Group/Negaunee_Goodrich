@@ -1,0 +1,5 @@
+tab 	locations
+age	age_high	age_low	age_unit	citations	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w
+1875	1890	1860	Ma	This study	Metamorphic	46.486484	46.486484	Ironstone	Jasper Knob	Outcrop	272.344753	272.344753
+1875	1890	1860	Ma	This study	Metamorphic	46.435556	46.435556	Ironstone	Goodrich Quartzite	Outcrop	272.412222	272.412222
+1875	1890	1860	Ma	This study	Metamorphic	46.435892	46.435892	Ironstone	Negaunee	Outcrop	272.451206	272.451206

@@ -1,0 +1,125 @@
+tab	specimens
+specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+GQ.10a		GQ.10a																	This study			2e-05		Goodrich Quartzite	GQ
+GQ.10a	GQ.10a_LP-DIR-T	GQ.10a		Mgt	308.5	-25.9	2	6	100	1.5	5.0	853	828	K		hargrave 2024-05-07 15:01:51	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.10a	GQ.10a_LP-DIR-T	GQ.10a		Hmt	325.9	-22.1	2	5	100	0.0	9.5	941	888	K		hargrave 2024-05-07 15:01:51	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.10a	GQ.10a_LP-DIR-T	GQ.10a		Mgt	321.6	-39.3	2	6	0	1.5	5.0	853	828	K		hargrave 2024-05-07 15:01:51	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.10a	GQ.10a_LP-DIR-T	GQ.10a		Hmt	337.1	-29.1	2	5	0	0.0	9.5	941	888	K		hargrave 2024-05-07 15:01:51	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.11a		GQ.11a																	This study			1.1e-05		Goodrich Quartzite	GQ
+GQ.11a	GQ.11a_LP-DIR-T	GQ.11a		Hmt	51.9	55.9	2	17	100	0.0	6.3	963	903	K		hargrave 2024-05-09 14:03:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.11a	GQ.11a_LP-DIR-T	GQ.11a		Mgt	40.0	59.2	2	7	100	2.8	11.9	853	773	K		hargrave 2024-05-09 14:03:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.11a	GQ.11a_LP-DIR-T	GQ.11a		Hmt	14.4	73.9	2	17	0	0.0	6.3	963	903	K		hargrave 2024-05-09 14:03:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.11a	GQ.11a_LP-DIR-T	GQ.11a		Mgt	351.5	71.5	2	7	0	2.8	11.9	853	773	K		hargrave 2024-05-09 14:03:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.12a		GQ.12a																	This study			2.2e-05		Goodrich Quartzite	GQ
+GQ.12a	GQ.12a_LP-DIR-T	GQ.12a		Hmt	52.0	64.3	2	14	100	0.0	7.5	961	913	K		hargrave 2024-05-09 11:37:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.12a	GQ.12a_LP-DIR-T	GQ.12a		Mgt	154.4	-37.1	2	9	100	2.0	5.4	853	798	K		hargrave 2024-05-09 11:37:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.12a	GQ.12a_LP-DIR-T	GQ.12a		Hmt	344.7	78.9	2	14	0	0.0	7.5	961	913	K		hargrave 2024-05-09 11:37:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.12a	GQ.12a_LP-DIR-T	GQ.12a		Mgt	139.8	-28.3	2	9	0	2.0	5.4	853	798	K		hargrave 2024-05-09 11:37:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.14a	GQ.14a_LP-DIR-T	GQ.14a		Mgt	274.5	39.8	1	10	0	4.3	10.1	853	773	K		hargrave 2024-05-08 12:42:53	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.14a	GQ.14a_LP-DIR-T	GQ.14a		Mgt	285.8	62.2	1	10	100	4.3	10.1	853	773	K		hargrave 2024-05-08 12:42:53	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.14a		GQ.14a																	This study			1.6e-05		Goodrich Quartzite	GQ
+GQ.15a		GQ.15a																	This study			1.6e-05		Goodrich Quartzite	GQ
+GQ.15a	GQ.15a_LP-DIR-T	GQ.15a		Mgt	114.3	-12.1	2	9	100	4.4	3.5	853	773	K		hargrave 2024-05-09 11:39:14	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.15a	GQ.15a_LP-DIR-T	GQ.15a		Hmt	115.3	2.8	2	16	100	0.0	5.6	961	903	K		hargrave 2024-05-09 11:39:14	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.15a	GQ.15a_LP-DIR-T	GQ.15a		Mgt	113.7	7.4	2	9	0	4.4	3.5	853	773	K		hargrave 2024-05-09 11:39:14	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.15a	GQ.15a_LP-DIR-T	GQ.15a		Hmt	118.6	21.7	2	16	0	0.0	5.6	961	903	K		hargrave 2024-05-09 11:39:14	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.16a	GQ.16a_LP-DIR-T	GQ.16a		Hmt	4.9	-41.0	1	17	100	0.0	7.5	963	903	K		hargrave 2024-05-09 14:04:41	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.16a	GQ.16a_LP-DIR-T	GQ.16a		Hmt	21.0	-30.7	1	17	0	0.0	7.5	963	903	K		hargrave 2024-05-09 14:04:41	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.16a		GQ.16a																	This study			1.1e-05		Goodrich Quartzite	GQ
+GQ.17a	GQ.17a_LP-DIR-T	GQ.17a		Mgt	114.1	-71.1	2	5	0	1.4	3.9	853	833	K		hargrave 2024-05-09 11:43:36	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.17a	GQ.17a_LP-DIR-T	GQ.17a		Mgt	205.7	-76.2	2	5	100	1.4	3.9	853	833	K		hargrave 2024-05-09 11:43:36	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.17a	GQ.17a_LP-DIR-T	GQ.17a		Hmt	242.9	-75.7	2	11	100	0.0	3.3	957	913	K		hargrave 2024-05-09 11:43:36	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.17a	GQ.17a_LP-DIR-T	GQ.17a		Hmt	98.5	-79.2	2	11	0	0.0	3.3	957	913	K		hargrave 2024-05-09 11:43:36	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.17a		GQ.17a																	This study			2.4e-05		Goodrich Quartzite	GQ
+GQ.18a		GQ.18a																	This study			9e-06		Goodrich Quartzite	GQ
+GQ.19a		GQ.19a																	This study			2.1e-05		Goodrich Quartzite	GQ
+GQ.19a	GQ.19a_LP-DIR-T	GQ.19a		Mgt	283.1	47.5	2	10	0	2.3	7.7	853	723	K		hargrave 2024-05-06 17:56:20	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.19a	GQ.19a_LP-DIR-T	GQ.19a		Hmt	271.1	70.8	2	11	100	0.0	10.6	947	873	K		hargrave 2024-05-06 17:56:20	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.19a	GQ.19a_LP-DIR-T	GQ.19a		Mgt	305.8	67.4	2	10	100	2.3	7.7	853	723	K		hargrave 2024-05-06 17:56:20	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.19a	GQ.19a_LP-DIR-T	GQ.19a		Hmt	264.4	47.1	2	11	0	0.0	10.6	947	873	K		hargrave 2024-05-06 17:56:20	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.1a		GQ.1a																	This study			1.3e-05		Goodrich Quartzite	GQ
+GQ.1a	GQ.1a_LP-DIR-T	GQ.1a		Hmt	341.5	28.6	2	15	100	0.0	8.5	961	903	K		hargrave 2024-05-09 13:59:04	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.1a	GQ.1a_LP-DIR-T	GQ.1a		Mgt	319.2	41.0	2	6	100	15.8	17.4	853	823	K		hargrave 2024-05-09 13:59:04	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.1a	GQ.1a_LP-DIR-T	GQ.1a		Hmt	329.9	23.3	2	15	0	0.0	8.5	961	903	K		hargrave 2024-05-09 13:59:04	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.1a	GQ.1a_LP-DIR-T	GQ.1a		Mgt	305.9	26.8	2	6	0	15.8	17.4	853	823	K		hargrave 2024-05-09 13:59:04	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.20a	GQ.20a_LP-DIR-T	GQ.20a		Mgt	24.9	-83.7	1	4	100	4.1	6.5	853	828	K		hargrave 2024-05-08 13:08:14	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.20a	GQ.20a_LP-DIR-T	GQ.20a		Mgt	67.5	-61.8	1	4	0	4.1	6.5	853	828	K		hargrave 2024-05-08 13:08:14	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.20a		GQ.20a																	This study			8e-06		Goodrich Quartzite	GQ
+GQ.21a	GQ.21a_LP-DIR-T	GQ.21a		Mgt	227.3	-64.2	1	8	100	0.9	5.2	853	723	K		hargrave 2024-05-06 11:05:02	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.21a	GQ.21a_LP-DIR-T	GQ.21a		Mgt	161.7	-77.0	1	8	0	0.9	5.2	853	723	K		hargrave 2024-05-06 11:05:02	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.21a		GQ.21a																	This study			9e-06		Goodrich Quartzite	GQ
+GQ.23a	GQ.23a_LP-DIR-T	GQ.23a		Hmt	278.8	45.9	2	9	100	0.0	8.5	959	903	K		hargrave 2024-05-09 11:46:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.23a	GQ.23a_LP-DIR-T	GQ.23a		Mgt	270.0	28.3	2	9	100	9.7	6.0	853	773	K		hargrave 2024-05-09 11:46:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.23a	GQ.23a_LP-DIR-T	GQ.23a		Hmt	273.6	23.1	2	9	0	0.0	8.5	959	903	K		hargrave 2024-05-09 11:46:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.23a	GQ.23a_LP-DIR-T	GQ.23a		Mgt	268.6	4.8	2	9	0	9.7	6.0	853	773	K		hargrave 2024-05-09 11:46:45	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.23a		GQ.23a																	This study			2.2e-05		Goodrich Quartzite	GQ
+GQ.24a	GQ.24a_LP-DIR-T	GQ.24a		Mgt	256.8	57.5	2	6	0	12.0	5.6	853	773	K		hargrave 2024-05-09 14:06:03	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.24a	GQ.24a_LP-DIR-T	GQ.24a		Hmt	92.9	73.4	2	10	100	0.0	3.6	961	913	K		hargrave 2024-05-09 14:06:03	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.24a	GQ.24a_LP-DIR-T	GQ.24a		Mgt	253.1	81.4	2	6	100	12.0	5.6	853	773	K		hargrave 2024-05-09 14:06:03	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.24a		GQ.24a																	This study			7e-06		Goodrich Quartzite	GQ
+GQ.24a	GQ.24a_LP-DIR-T	GQ.24a		Hmt	230.5	81.1	2	10	0	0.0	3.6	961	913	K		hargrave 2024-05-09 14:06:03	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.25a		GQ.25a																	This study			1.8e-05		Goodrich Quartzite	GQ
+GQ.25a	GQ.25a_LP-DIR-T	GQ.25a		Hmt	87.4	42.0	2	20	0	0.0	6.5	963	873	K		hargrave 2024-05-09 14:07:30	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.25a	GQ.25a_LP-DIR-T	GQ.25a		Mgt	103.2	36.2	2	10	0	4.3	7.0	853	773	K		hargrave 2024-05-09 14:07:30	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.25a	GQ.25a_LP-DIR-T	GQ.25a		Hmt	85.4	18.3	2	20	100	0.0	6.5	963	873	K		hargrave 2024-05-09 14:07:30	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.25a	GQ.25a_LP-DIR-T	GQ.25a		Mgt	98.8	14.0	2	10	100	4.3	7.0	853	773	K		hargrave 2024-05-09 14:07:30	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.26a	GQ.26a_LP-DIR-T	GQ.26a		Hmt	279.0	19.5	2	19	0	0.0	4.4	963	888	K		hargrave 2024-05-09 14:08:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.26a	GQ.26a_LP-DIR-T	GQ.26a		Mgt	215.4	22.2	2	9	0	8.8	14.5	853	798	K		hargrave 2024-05-09 14:08:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.26a	GQ.26a_LP-DIR-T	GQ.26a		Hmt	284.8	41.6	2	19	100	0.0	4.4	963	888	K		hargrave 2024-05-09 14:08:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.26a		GQ.26a																	This study			7e-06		Goodrich Quartzite	GQ
+GQ.26a	GQ.26a_LP-DIR-T	GQ.26a		Mgt	204.8	38.5	2	9	100	8.8	14.5	853	798	K		hargrave 2024-05-09 14:08:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.27a	GQ.27a_LP-DIR-T	GQ.27a		Mgt	189.0	45.1	2	9	0	5.4	8.7	848	773	K		hargrave 2024-05-09 11:52:41	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.27a	GQ.27a_LP-DIR-T	GQ.27a		Hmt	248.3	74.2	2	16	0	0.0	6.5	961	888	K		hargrave 2024-05-09 11:52:41	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.27a	GQ.27a_LP-DIR-T	GQ.27a		Hmt	95.9	81.1	2	16	100	0.0	6.5	961	888	K		hargrave 2024-05-09 11:52:41	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.27a	GQ.27a_LP-DIR-T	GQ.27a		Mgt	163.1	48.5	2	9	100	5.4	8.7	848	773	K		hargrave 2024-05-09 11:52:41	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.27a		GQ.27a																	This study			8e-06		Goodrich Quartzite	GQ
+GQ.28a		GQ.28a																	This study			1e-05		Goodrich Quartzite	GQ
+GQ.28a	GQ.28a_LP-DIR-T	GQ.28a		Mgt	189.7	-11.8	2	9	100	1.2	7.0	853	798	K		hargrave 2024-05-09 11:54:12	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.28a	GQ.28a_LP-DIR-T	GQ.28a		Hmt	189.8	1.8	2	17	100	0.0	5.0	957	873	K		hargrave 2024-05-09 11:54:12	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.28a	GQ.28a_LP-DIR-T	GQ.28a		Mgt	183.2	-19.4	2	9	0	1.2	7.0	853	798	K		hargrave 2024-05-09 11:54:12	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.28a	GQ.28a_LP-DIR-T	GQ.28a		Hmt	188.7	-6.9	2	17	0	0.0	5.0	957	873	K		hargrave 2024-05-09 11:54:12	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.29a		GQ.29a																	This study			1.5e-05		Goodrich Quartzite	GQ
+GQ.29a	GQ.29a_LP-DIR-T	GQ.29a		Mgt	121.5	-43.0	1	10	100	3.1	11.0	853	773	K		hargrave 2024-05-09 14:10:30	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.29a	GQ.29a_LP-DIR-T	GQ.29a		Mgt	111.5	-24.0	1	10	0	3.1	11.0	853	773	K		hargrave 2024-05-09 14:10:30	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.2a	GQ.2a_LP-DIR-T	GQ.2a		Hmt	350.6	37.1	2	11	100	0.0	8.5	961	873	K		hargrave 2024-05-09 14:00:32	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.2a	GQ.2a_LP-DIR-T	GQ.2a		Mgt	0.6	53.6	2	10	0	2.1	4.8	853	773	K		hargrave 2024-05-09 14:00:32	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.2a	GQ.2a_LP-DIR-T	GQ.2a		Hmt	333.1	34.4	2	11	0	0.0	8.5	961	873	K		hargrave 2024-05-09 14:00:32	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.2a	GQ.2a_LP-DIR-T	GQ.2a		Mgt	25.6	43.1	2	10	100	2.1	4.8	853	773	K		hargrave 2024-05-09 14:00:32	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.2a		GQ.2a																	This study			1.2e-05		Goodrich Quartzite	GQ
+GQ.30a	GQ.30a_LP-DIR-T	GQ.30a		Mgt	298.4	4.6	2	9	100	2.2	9.3	853	798	K		hargrave 2024-05-09 11:59:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.30a	GQ.30a_LP-DIR-T	GQ.30a		Hmt	316.3	25.7	2	14	100	0.0	5.9	959	913	K		hargrave 2024-05-09 11:59:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.30a	GQ.30a_LP-DIR-T	GQ.30a		Mgt	299.7	-13.7	2	9	0	2.2	9.3	853	798	K		hargrave 2024-05-09 11:59:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.30a	GQ.30a_LP-DIR-T	GQ.30a		Hmt	309.5	11.7	2	14	0	0.0	5.9	959	913	K		hargrave 2024-05-09 11:59:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.30a		GQ.30a																	This study			1.8e-05		Goodrich Quartzite	GQ
+GQ.31a	GQ.31a_LP-DIR-T	GQ.31a		Mgt	30.2	18.7	2	10	100	12.8	6.1	848	723	K		hargrave 2024-05-09 12:02:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.31a	GQ.31a_LP-DIR-T	GQ.31a		Hmt	339.4	45.3	2	14	100	0.0	7.9	961	888	K		hargrave 2024-05-09 12:02:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.31a	GQ.31a_LP-DIR-T	GQ.31a		Hmt	319.1	37.2	2	14	0	0.0	7.9	961	888	K		hargrave 2024-05-09 12:02:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.31a	GQ.31a_LP-DIR-T	GQ.31a		Mgt	20.7	33.5	2	10	0	12.8	6.1	848	723	K		hargrave 2024-05-09 12:02:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.31a		GQ.31a																	This study			1.9e-05		Goodrich Quartzite	GQ
+GQ.3a	GQ.3a_LP-DIR-T	GQ.3a		Mgt	181.8	-78.6	1	9	0	3.6	5.3	853	773	K		hargrave 2024-05-07 14:54:07	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.3a	GQ.3a_LP-DIR-T	GQ.3a		Mgt	234.7	-61.2	1	9	100	3.6	5.3	853	773	K		hargrave 2024-05-07 14:54:07	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.3a		GQ.3a																	This study			1.3e-05		Goodrich Quartzite	GQ
+GQ.4a	GQ.4a_LP-DIR-T	GQ.4a		Mgt	16.2	25.2	1	9	100	19.7	16.8	853	773	K		hargrave 2024-05-06 11:25:00	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.4a	GQ.4a_LP-DIR-T	GQ.4a		Mgt	349.3	58.3	1	5	0	11.8	9.4	853	828	K		hargrave 2024-05-06 11:25:00	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.4a		GQ.4a																	This study			1.2e-05		Goodrich Quartzite	GQ
+GQ.5a		GQ.5a																	This study			1.5e-05		Goodrich Quartzite	GQ
+GQ.5a	GQ.5a_LP-DIR-T	GQ.5a		Mgt	223.6	5.4	2	11	100	38.5	9.7	853	723	K		hargrave 2024-05-09 14:01:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.5a	GQ.5a_LP-DIR-T	GQ.5a		Hmt	334.9	41.2	2	19	100	0.0	6.4	963	873	K		hargrave 2024-05-09 14:01:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.5a	GQ.5a_LP-DIR-T	GQ.5a		Hmt	318.0	32.1	2	19	0	0.0	6.4	963	873	K		hargrave 2024-05-09 14:01:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.5a	GQ.5a_LP-DIR-T	GQ.5a		Mgt	222.5	-14.3	2	11	0	38.5	9.7	853	723	K		hargrave 2024-05-09 14:01:58	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.6a	GQ.6a_LP-DIR-T	GQ.6a		Hmt	312.5	24.6	2	10	0	0.0	7.2	959	928	K		hargrave 2024-05-09 11:30:38	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.6a	GQ.6a_LP-DIR-T	GQ.6a		Mgt	338.9	-0.3	2	7	0	2.0	7.5	853	813	K		hargrave 2024-05-09 11:30:38	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.6a	GQ.6a_LP-DIR-T	GQ.6a		Hmt	325.1	36.6	2	10	100	0.0	7.2	959	928	K		hargrave 2024-05-09 11:30:38	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.6a		GQ.6a																	This study			1.8e-05		Goodrich Quartzite	GQ
+GQ.6a	GQ.6a_LP-DIR-T	GQ.6a		Mgt	339.6	3.5	2	7	100	2.0	7.5	853	813	K		hargrave 2024-05-09 11:30:38	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.7a		GQ.7a																	This study			9e-06		Goodrich Quartzite	GQ
+GQ.7a	GQ.7a_LP-DIR-T	GQ.7a		Mgt	1.4	27.1	1	9	0	5.3	8.6	848	773	K		hargrave 2024-05-06 09:46:00	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.7a	GQ.7a_LP-DIR-T	GQ.7a		Mgt	11.4	19.5	1	9	100	5.3	8.6	848	773	K		hargrave 2024-05-06 09:46:00	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.8a	GQ.8a_LP-DIR-T	GQ.8a		Mgt	20.7	55.7	2	9	100	2.6	17.6	853	773	K		hargrave 2024-05-09 11:32:01	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.8a	GQ.8a_LP-DIR-T	GQ.8a		Hmt	10.6	49.5	2	7	100	0.0	7.4	959	947	K		hargrave 2024-05-09 11:32:01	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ
+GQ.8a	GQ.8a_LP-DIR-T	GQ.8a		Hmt	340.3	52.7	2	7	0	0.0	7.4	959	947	K		hargrave 2024-05-09 11:32:01	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.8a		GQ.8a																	This study			1.5e-05		Goodrich Quartzite	GQ
+GQ.8a	GQ.8a_LP-DIR-T	GQ.8a		Mgt	341.0	61.4	2	9	0	2.6	17.6	853	773	K		hargrave 2024-05-09 11:32:01	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.9a		GQ.9a																	This study			1.5e-05		Goodrich Quartzite	GQ
+GQ.9a	GQ.9a_LP-DIR-T	GQ.9a		Hmt	23.1	40.6	1	16	0	0.0	5.3	959	888	K		hargrave 2024-05-09 11:33:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Goodrich Quartzite	GQ
+GQ.9a	GQ.9a_LP-DIR-T	GQ.9a		Hmt	34.9	24.7	1	16	100	0.0	5.3	959	888	K		hargrave 2024-05-09 11:33:21	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Goodrich Quartzite	GQ

@@ -1,0 +1,31 @@
+tab	specimens
+specimen	sample	analysts	citations	volume	weight
+GQ.1a	GQ.1a		This study	 1.300e-05	
+GQ.2a	GQ.2a		This study	 1.200e-05	
+GQ.3a	GQ.3a		This study	 1.300e-05	
+GQ.4a	GQ.4a		This study	 1.200e-05	
+GQ.5a	GQ.5a		This study	 1.500e-05	
+GQ.6a	GQ.6a		This study	 1.800e-05	
+GQ.7a	GQ.7a		This study	 9.000e-06	
+GQ.8a	GQ.8a		This study	 1.500e-05	
+GQ.9a	GQ.9a		This study	 1.500e-05	
+GQ.10a	GQ.10a		This study	 2.000e-05	
+GQ.11a	GQ.11a		This study	 1.100e-05	
+GQ.12a	GQ.12a		This study	 2.200e-05	
+GQ.14a	GQ.14a		This study	 1.600e-05	
+GQ.15a	GQ.15a		This study	 1.600e-05	
+GQ.16a	GQ.16a		This study	 1.100e-05	
+GQ.17a	GQ.17a		This study	 2.400e-05	
+GQ.18a	GQ.18a		This study	 9.000e-06	
+GQ.19a	GQ.19a		This study	 2.100e-05	
+GQ.20a	GQ.20a		This study	 8.000e-06	
+GQ.21a	GQ.21a		This study	 9.000e-06	
+GQ.23a	GQ.23a		This study	 2.200e-05	
+GQ.24a	GQ.24a		This study	 7.000e-06	
+GQ.25a	GQ.25a		This study	 1.800e-05	
+GQ.26a	GQ.26a		This study	 7.000e-06	
+GQ.27a	GQ.27a		This study	 8.000e-06	
+GQ.28a	GQ.28a		This study	 1.000e-05	
+GQ.29a	GQ.29a		This study	 1.500e-05	
+GQ.30a	GQ.30a		This study	 1.800e-05	
+GQ.31a	GQ.31a		This study	 1.900e-05	

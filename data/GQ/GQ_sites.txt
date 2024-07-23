@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+GQ	Goodrich Quartzite	46.4	-87.6		This study

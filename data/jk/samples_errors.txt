@@ -1,0 +1,2 @@
+name	row_number	problem_type	problem_col	error_message
+jk.37a	30	value	bed_dip	100 (bed_dip) must be <= 90.0 (90)

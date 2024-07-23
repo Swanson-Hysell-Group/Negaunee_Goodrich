@@ -1,0 +1,88 @@
+tab 	samples
+azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lat	lithologies	lon	method_codes	sample	site
+204.4	0.0	19	24.4	This study	-19	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.3a	jk
+14.6	0.0	43	14.6	This study	-47	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.4a	jk
+171.8	0.0	9	351.8	This study	-9	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.5a	jk
+353.7	0.0	48	173.7	This study	-48	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.6a	jk
+346.8	0.0	36	166.8	This study	-36	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.7a	jk
+346.9	0.0	30	166.9	This study	-30	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.8a	jk
+170.2	0.0	29	350.2	This study	-29	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.9a	jk
+4.9	0.0	42	4.9	This study	-42	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.10a	jk
+196.1	0.0	28	196.1	This study	-62	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.11a	jk
+212.9	0.0	43	212.9	This study	-47	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.12a	jk
+194.0	0.0	35	14.0	This study	-35	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.13a	jk
+50.0	0.0	7	230.0	This study	-7	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.14a	jk
+13.3	0.0	44	13.3	This study	-46	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.15a	jk
+15.8	0.0	22	195.8	This study	-68	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.16a	jk
+200.3	0.0	61	20.3	This study	-61	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.18a	jk
+29.3	0.0	29	209.3	This study	-29	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.19a	jk
+356.0	0.0	78	176.0	This study	-78	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.20a	jk
+3.4	0.0	64	183.4	This study	-64	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.21a	jk
+181.3	0.0	61	1.3000000000000114	This study	-61	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.22a	jk
+351.4	0.0	65	351.4	This study	-25	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.23a	jk
+358.7	0.0	70	178.7	This study	-79	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.24a	jk
+351.8	0.0	61	1.8000000000000114	This study	-29	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.25a	jk
+28.3	0.0	58	345.3	This study	-7	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.26a	jk
+74.2	0.0	58	345.3	This study	-95	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.27a	jk
+38.1	0.0	58	345.3	This study	-84	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.28a	jk
+228.3	0.0	58	345.3	This study	-11	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.29a	jk
+240.7	0.0	58	345.3	This study	-12	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.30a	jk
+226.5	0.0	38	226.5	This study	-52	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.31a	jk
+210.4	0.0	50	210.4	This study	-40	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.35a	jk
+344.9	0.0	68	164.9	This study	-68	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.36a	jk
+218.7	0.0	100	218.7	This study	-10	Metamorphic	Sediment Layer	0	46.486484	Ironstone	272.344753	SO-CMD-NORTH	jk.37a	jk
+158.8	0.0	24	78.2	This study	-15	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.1a	GQ
+299.1	0.0	24	78.2	This study	-75	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.2a	GQ
+262.4	0.0	24	78.2	This study	-18	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.3a	GQ
+268.7	0.0	24	78.2	This study	-97	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.4a	GQ
+288.3	0.0	24	78.2	This study	-76	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.5a	GQ
+281.0	0.0	24	78.2	This study	-94	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.6a	GQ
+327.0	0.0	24	78.2	This study	-84	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.7a	GQ
+325.4	0.0	24	78.2	This study	-83	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.8a	GQ
+4.4	0.0	24	78.2	This study	-82	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.9a	GQ
+176.2	0.0	24	78.2	This study	-5	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.10a	GQ
+355.8	0.0	24	78.2	This study	-103	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.11a	GQ
+324.0	0.0	24	78.2	This study	-67	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.12a	GQ
+348.2	0.0	24	78.2	This study	-76	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.14a	GQ
+289.2	0.0	24	78.2	This study	-69	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.15a	GQ
+9.2	0.0	24	78.2	This study	-74	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.16a	GQ
+344.2	0.0	24	78.2	This study	-56	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.17a	GQ
+352.2	0.0	24	78.2	This study	-68	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.18a	GQ
+159.7	0.0	24	78.2	This study	-10	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.19a	GQ
+3.2	0.0	24	78.2	This study	-81	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.20a	GQ
+30.2	0.0	24	78.2	This study	-54	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.21a	GQ
+347.8	0.0	24	78.2	This study	-73	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.23a	GQ
+321.4	0.0	24	78.2	This study	-4	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.24a	GQ
+155.0	0.0	24	78.2	This study	-18	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.25a	GQ
+283.2	0.0	24	78.2	This study	-61	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.26a	GQ
+337.2	0.0	24	78.2	This study	-79	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.27a	GQ
+79.2	0.0	24	78.2	This study	-33	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.28a	GQ
+124.2	0.0	24	78.2	This study	-67	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.29a	GQ
+332.4	0.0	24	78.2	This study	-69	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.30a	GQ
+341.9	0.0	24	78.2	This study	-52	Metamorphic	Conglomerate	0	46.435556	Quartzite	272.412222	SO-CMD-NORTH	GQ.31a	GQ
+207.4	0.0	62	27.4	This study	-62		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.2-1	NF
+30.7	0.0	65	30.2	This study	-25		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.2-2	NF
+202.1	0.0	62	22.1	This study	-62		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.2-3	NF
+207.4	0.0	64	27.4	This study	-64		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.2-4	NF
+357.5	0.0	41	357.5	This study	-49		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.6-1	NF
+185.8	0.0	41	5.8	This study	-41		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.6-2	NF
+183.9	0.0	45	3.899999999999977	This study	-45		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.6-3	NF
+187.0	0.0	41	7.0	This study	-41		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.6-4	NF
+179.2	0.0	41	359.2	This study	-41		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.6-5	NF
+8.2	0.0	41	339.2	This study	-57		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.7-1	NF
+177.2	0.0	41	345.2	This study	-14		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.7-2	NF
+186.1	0.0	45	338.2	This study	-45		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.8-1	NF
+164.2	0.0	47	344.2	This study	-47		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.8-2	NF
+162.3	0.0	31	342.3	This study	-31		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-1	NF
+222.4	0.0	17	223.2	This study	-73		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-2	NF
+355.2	0.0	59	355.2	This study	-31		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-3	NF
+153.1	0.0	15	340.2	This study	-15		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-4	NF
+198.6	0.0	11	198.6	This study	-79		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-5	NF
+114.7	0.0	9	294.7	This study	-9		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-6	NF
+120.5	0.0	21	300.5	This study	-21		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-7	NF
+179.2	0.0	28	359.2	This study	-28		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.9-8	NF
+162.3	0.0	37	342.3	This study	-37		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.10-1	NF
+142.9	0.0	28	322.9	This study	-28		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.10-2	NF
+339.1	0.0	30	339.1	This study	-60		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.10-3	NF
+145.1	0.0	22	325.1	This study	-22		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.10-4	NF
+194.9	0.0	21	14.9	This study	-21		Sediment Layer	0	46.435892	Ironstone	272.451206	SO-CMD-NORTH	NF.11-1	NF

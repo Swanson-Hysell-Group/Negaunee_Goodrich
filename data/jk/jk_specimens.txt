@@ -1,0 +1,33 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+jk.3a	jk.3a		This study	LP-NOMAG		
+jk.4a	jk.4a		This study	LP-NOMAG		
+jk.5a	jk.5a		This study	LP-NOMAG		
+jk.6a	jk.6a		This study	LP-NOMAG		
+jk.7a	jk.7a		This study	LP-NOMAG		
+jk.8a	jk.8a		This study	LP-NOMAG		
+jk.9a	jk.9a		This study	LP-NOMAG		
+jk.10a	jk.10a		This study	LP-NOMAG		
+jk.11a	jk.11a		This study	LP-NOMAG		
+jk.12a	jk.12a		This study	LP-NOMAG		
+jk.13a	jk.13a		This study	LP-NOMAG		
+jk.14a	jk.14a		This study	LP-NOMAG		
+jk.15a	jk.15a		This study	LP-NOMAG		
+jk.16a	jk.16a		This study	LP-NOMAG		
+jk.18a	jk.18a		This study	LP-NOMAG		
+jk.19a	jk.19a		This study	LP-NOMAG		
+jk.20a	jk.20a		This study	LP-NOMAG		
+jk.21a	jk.21a		This study	LP-NOMAG		
+jk.22a	jk.22a		This study	LP-NOMAG		
+jk.23a	jk.23a		This study	LP-NOMAG		
+jk.24a	jk.24a		This study	LP-NOMAG		
+jk.25a	jk.25a		This study	LP-NOMAG		
+jk.26a	jk.26a		This study	LP-NOMAG		
+jk.27a	jk.27a		This study	LP-NOMAG		
+jk.28a	jk.28a		This study	LP-NOMAG		
+jk.29a	jk.29a		This study	LP-NOMAG		
+jk.30a	jk.30a		This study	LP-NOMAG		
+jk.31a	jk.31a		This study	LP-NOMAG		
+jk.35a	jk.35a		This study	LP-NOMAG		
+jk.36a	jk.36a		This study	LP-NOMAG		
+jk.37a	jk.37a		This study	LP-NOMAG		
