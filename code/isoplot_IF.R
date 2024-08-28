@@ -1,11 +1,12 @@
 
-setwd("Github/Vulcan_Iron_Formation/data/geochron/iolite")
+setwd("~/Github/Negaunee_Goodrich/data/geochron/iolite")
 
 library(dplyr)
 library(IsoplotR)
 library(scales)
 library(stringr)
 library(ggplot2)
+library(common)
 
 ##### Function for splitting up samples in output table from Iolite and getting into isoplotr format####
 
@@ -32,13 +33,17 @@ splt_data<-function(df,sample,prop){
 }
 
 
-ref_uncert<-function(df){
-  df%>%
-    mutate("full_six_eight"=((HFO_six_eight_2SE**2)+(Final.Pb206.U238_prop2SE**2))**0.5)%>%
-  
-   na.omit(data) 
-}
 
+write_dt<-function(df,filepath){
+  df%>%
+    select(c("X","Final.U238.Pb206_mean","Final.U238.Pb206_2SE","Final.U238.Pb206_prop2SE","Final.Pb207.Pb206_mean",
+             "Final.Pb207.Pb206_2SE","Final.Pb207.Pb206_prop2SE","rho.207Pb.206Pb.v.238U.206Pb"))%>%
+    rename("Spot ID #"="X","238/206"="Final.U238.Pb206_mean","238/206 2SE"="Final.U238.Pb206_2SE",
+           "238/206 Prop 2SE"="Final.U238.Pb206_prop2SE","207/206"="Final.Pb207.Pb206_mean", "207/206 2SE"="Final.Pb207.Pb206_2SE",
+           "207/206 Prop 2SE"="Final.Pb207.Pb206_prop2SE", "207/238 Error Corr"="rho.207Pb.206Pb.v.238U.206Pb"
+           )%>%
+    write.csv(filepath,col.names = TRUE,row.names = FALSE)
+}
 
 # HFO Abs reference values which are taken as the reciprocal for the 238/06 
 HFO_three_eight_mean=1/0.12216
@@ -153,7 +158,7 @@ concordia(jk23_01,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.num
 pts<-c(4,51,6,22,29,38,61,53,60,62,10,68,47,25,
        44,7,49,46,50,36,2,63,23,13,57)
 concordia(jk23_01,type=2,tlim=(5300:540),ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = FALSE,
-          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,omit=pts,cex.lab=(2),cex.axis=(1.5))
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,hide=pts,cex.lab=(2),cex.axis=(1.5))
 #dev.off();
 
 
