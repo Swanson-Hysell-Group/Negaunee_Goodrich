@@ -16,7 +16,9 @@ splt_data<-function(df,sample,prop){
       filter(str_detect(X,regex(sample)))%>%
       select(c("Final.U238.Pb206_mean","Final.U238.Pb206_prop2SE","Final.Pb207.Pb206_mean",
                "Final.Pb207.Pb206_prop2SE","rho.207Pb.206Pb.v.238U.206Pb")) %>%
+      distinct()%>%
       na.omit(samp)
+     
     read.data(samp,method='U-Pb',format=2,ierr=2)
   }
   else{
@@ -24,7 +26,9 @@ splt_data<-function(df,sample,prop){
       filter(str_detect(X,regex(sample)))%>%
       select(c("Final.U238.Pb206_mean","Final.U238.Pb206_2SE",
                "Final.Pb207.Pb206_mean","Final.Pb207.Pb206_2SE","rho.207Pb.206Pb.v.238U.206Pb")) %>%
+      distinct()%>%
       na.omit(samp)
+  
     read.data(samp,method='U-Pb',format=2,ierr=2)
     
   }
@@ -88,36 +92,124 @@ jk34<-splt_data(april_day_03,"JK34",TRUE)
 
 jk36<-splt_data(april_day_02,"JK36",TRUE)
 
-jk10<-splt_data(april_day_03,"JK10",TRUE)
+jk10<-splt_data(april_day_03,"JK10-",TRUE)
 jk21<-splt_data(nov,"JK_21_G_Band",TRUE)
 jk21_02<-splt_data(april_day_03,"JK21_band",TRUE)
 vein<-splt_data(nov,"JK_21_G_Vein",TRUE)
 vein_02<-splt_data(april_day_03,"JK21_vein",TRUE)
+
 NF10<-splt_data(april_day_01,"NF10",TRUE)
 NF9<-splt_data(april_day_01,"NF9",TRUE)
 jk3<-splt_data(april_day_03,"JK3_mph",TRUE)
 Fe_grab<-splt_data(nov,"Fe-Grab",TRUE)
+jk1<-splt_data(april_day_03,'JK1-',TRUE)
+
+top_list=c("JK1","JK10","JK3_mph")
+jk_top<-splt_data(all_data,top_list,TRUE)
+
+combo<-rbind(rbind(april_day_03[,jk_cols],nov[,jk_cols]))
+drops <- c("X.1")
+combo<-combo[ , !(names(combo) %in% drops)]
+
+jk21_all<-combo%>%
+  filter(str_detect(X,regex("JK_21_G|JK21_")))%>%
+  select(c("X","Final.U238.Pb206_mean","Final.U238.Pb206_prop2SE","Final.Pb207.Pb206_mean",
+           "Final.Pb207.Pb206_prop2SE","rho.207Pb.206Pb.v.238U.206Pb")) %>%
+  na.omit()
+
+ 
+jk21_both<-read.data(jk21_all,method='U-Pb',format=2,ierr=2)
+
+
+
+jk21_april<-combo%>%
+  filter(str_detect(X,regex("JK21_")))%>%
+  select(c("Final.U238.Pb206_mean","Final.U238.Pb206_prop2SE","Final.Pb207.Pb206_mean",
+           "Final.Pb207.Pb206_prop2SE","rho.207Pb.206Pb.v.238U.206Pb")) %>%
+  na.omit()
+jk21_april<-read.data(jk21_april,method='U-Pb',format=2,ierr=2)
+
+jk21_nov_input<-combo%>%
+  filter(str_detect(X,regex("JK_21_G")))%>%
+  select(c("Final.U238.Pb206_mean","Final.U238.Pb206_prop2SE","Final.Pb207.Pb206_mean",
+           "Final.Pb207.Pb206_prop2SE","rho.207Pb.206Pb.v.238U.206Pb")) %>%
+  na.omit()
+jk21_nov<-read.data(jk21_nov_input,method='U-Pb',format=2,ierr=2)
+
+####JK 21 Additional Data Wrangling###
+
+# This area of code is to filter out the novemeber data and associate the band and vein textures with a numerical
+# value that isoplot can interpret and assign a color using the levels call. Cannot be a string for some reason 
+jk21_all<-jk21_all%>%
+  filter(str_detect(X,regex("JK_21_G")))%>%
+  mutate("levels"=ifelse(str_detect(X,regex("JK_21_G_Band")),1,2))
+jk_levels=jk21_all$levels
+
+jk21_nov_input<-jk21_all%>%
+  select(c("Final.U238.Pb206_mean","Final.U238.Pb206_prop2SE","Final.Pb207.Pb206_mean",
+           "Final.Pb207.Pb206_prop2SE","rho.207Pb.206Pb.v.238U.206Pb")) %>%
+  na.omit()
+jk21_nov<-read.data(jk21_nov_input,method='U-Pb',format=2,ierr=2)
+
+
 
 #write.table(test,'/Users/anthonyfuentes/Desktop/test.csv',col.names = FALSE,row.names=FALSE,sep=",")
 
 #write.table(test_v2,'/Users/anthonyfuentes/Desktop/test_v2.csv',col.names = FALSE,row.names=FALSE,sep=",")
 #### Jaspilite Facies####
+####JK 21####
 
-jk21_pts<-c(1,27,33,41,44,55,58,60)
+spot<-c(rep(0,length(jk21_nov_input)))
 
-#pdf("../../../figures/geochron/jk21_01.pdf")
+#jk21_pts<-c(1,27,33,41,44,55,58,60,47)
+jk21_pts<-c(1,41,44,55,48,47)
+pdf("../../../figures/geochron/jk21_bands.pdf")
 concordia(jk21,type=2,tlim=(5300:1100),ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = FALSE,
-          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,cex.lab=(2),cex.axis=(1.5))
-#dev.off()
-concordia(vein_02,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = TRUE,
-          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0)
-
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,cex.lab=(2),cex.axis=(1.5),hide=jk21_pts)
+dev.off()
+pdf("../../../figures/geochron/jk21_vein.pdf")
+concordia(vein,type=2,ellipse.fill = alpha("#2c7fb8",0.6),ticks = 10,show.numbers=FALSE,
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,hide=c(5,42,43),cex.lab=(2),cex.axis=(1.5))
+dev.off()
 concordia(jk21_02,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = TRUE,
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,cex.lab=(2),cex.axis=(1.5))
+
+#pdf("../../../figures/geochron/jk_top/jk21_april.pdf");
+jk21_pts<-c(10,3)
+concordia(jk21_april,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = FALSE,
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,hide=jk21_pts,cex.lab=(2),cex.axis=(1.5))
+#dev.off()
+
+#pdf("../../../figures/geochron/jk_top/jk21_vein_band.pdf");
+jk21_pts<-c(65,105,102,103,55,47,1,101,48)
+concordia(jk21_nov,type=2,levels=jk_levels,
+          ellipse.fill = c(alpha('#de2d26',0.6), alpha('#2c7fb8',0.6)),
+          ticks = 10,show.numbers = FALSE,
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,
+          cex.lab=(2),cex.axis=(1.5),hide=jk21_pts)
+
+#dev.off()
+
+
+
+####Rest####
+#pdf("../../../figures/geochron/jk_top/jk1.pdf");
+concordia(jk1,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = FALSE,
           concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0)
-
-
+#dev.off()
+pdf("../../../figures/geochron/jk_top/jk3.pdf");
 concordia(jk3,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = TRUE,
           concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0)
+dev.off()
+pdf("../../../figures/geochron/jk_top/jk10.pdf");
+concordia(jk10,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = TRUE,
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0)
+dev.off()
+
+concordia(jk_top,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers = TRUE,
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0)
+
+
 ####NF####
 NF10_pt<-c(7,10,11,17,6,2,45,51,24,56,23,
            26,46,25,47,52,50,54,49,20,5,33,21,18,30)
@@ -276,5 +368,5 @@ fe_pts<-c(1,16,36,18,4,47,44,46,42,66,43,
 
 #pdf("../../../figures/geochron/Fe_Grab.pdf")
 concordia(Fe_grab,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers =FALSE,
-          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,omit=fe_pts,,cex.lab=(2),cex.axis=(1.5))
+          concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,hide=fe_pts,,cex.lab=(2),cex.axis=(1.5))
 #dev.off()
