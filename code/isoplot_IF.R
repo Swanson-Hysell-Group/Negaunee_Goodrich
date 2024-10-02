@@ -100,8 +100,8 @@ concordia(GQ6,type=2,tlim=(5300:1500),ellipse.fill = alpha('#de2d26',0.6),ticks 
 fe_pts<-c(1,13,38,22,15,40,31,25,28,44,34,4,33,35,
           45,36,39,30,10,8,41,37,17,42)
 
-
-concordia(Fe_grab,type=2,ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers =FALSE,
+pdf("../../figures/geochron/Fe_Grab.pdf")
+concordia(Fe_grab,type=2,tlim=c(5200:460),ellipse.fill = alpha('#de2d26',0.6),ticks = 10,show.numbers =FALSE,
           concordia.col = 'black',show.age = 2,oerr=2,common.Pb = 0,hide=fe_pts,cex.lab=(2),cex.axis=(1.5))
 
-
+dev.off()
