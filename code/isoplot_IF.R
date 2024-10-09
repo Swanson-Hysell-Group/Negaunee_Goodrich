@@ -8,6 +8,9 @@ library(stringr)
 library(ggplot2)
 library(common)
 
+
+# This R script is for the analysis of the U-Pb data presented in the associated manuscript. All TW plots from the manuscript were produced here. 
+
 ##### Function for splitting up samples in output table from Iolite and getting into isoplotr format####
 
 
